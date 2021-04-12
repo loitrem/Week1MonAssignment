@@ -8,7 +8,7 @@ public class Stage2 {
         Scanner input = new Scanner(System.in);
         System.out.println("Please enter the desired number of cups of coffee: ");
         this.cupNum = input.nextInt();
-        
+
     }
 
     public String getWater(){
