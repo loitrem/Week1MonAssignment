@@ -8,6 +8,7 @@ public class MainRunner {
             System.out.println(s1.output[i]);
         }
 
+
         s2.getCups();
         System.out.println(s2.getWater() + "\n" + s2.getMilk() + "\n" + s2.getCoffee());
 
